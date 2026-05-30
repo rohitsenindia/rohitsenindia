@@ -6,7 +6,7 @@ I'm a passionate developer and open-source enthusiast on a mission to build mean
 
 ## 🚀 What I Do
 
-I'm deeply interested in creating innovative projects, solving complex problems, and sharing knowledge with the developer community. Whether it's building robust applications, optimizing performance, or exploring emerging technologies, I'm always eager to learn and collaborate.
+I'm deeply interested in creating innovative projects, solving complex problems, and sharing knowledge with the developer community. Whether it's building robust applications, optimizing performance, or contributing to open-source, I'm always pushing boundaries and learning something new.
 
 ---
 
@@ -53,10 +53,10 @@ I'm deeply interested in creating innovative projects, solving complex problems,
 
 I love meeting fellow developers and discussing tech, ideas, and opportunities!
 
-- 💼 **LinkedIn** – [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter** – [@YourHandle](https://twitter.com/yourhandle)
-- 📧 **Email** – your.email@example.com
-- 🌐 **Portfolio** – [yourwebsite.com](https://yourwebsite.com)
+- 🐦 **X (Twitter)** – [@ask_rohitsen](https://twitter.com/ask_rohitsen)
+- 💬 **Telegram** – [@rohitsen](https://t.me/rohitsen)
+- 💼 **LinkedIn** – [Rohit Sen](https://linkedin.com/in/rohitsenindia)
+- 📧 **Email** – [Contact me](mailto:rohit@example.com)
 
 ---
 
@@ -64,8 +64,8 @@ I love meeting fellow developers and discussing tech, ideas, and opportunities!
 
 - 🎯 Always looking for exciting collaborations and open-source contributions
 - 📚 Passionate about technical writing and sharing knowledge
-- 🎮 When not coding, you'll find me exploring new technologies or enjoying [your hobby]
-- ⚡ Fun fact about yourself
+- 🚀 When not coding, you'll find me exploring new technologies
+- ⚡ Love connecting with developers across the globe
 
 ---
 
@@ -75,8 +75,9 @@ I'm constantly expanding my skill set. Currently exploring:
 - Advanced system design patterns
 - Cloud architecture and DevOps
 - Machine learning fundamentals
-- [Your area of interest]
+- Web3 and blockchain technologies
 
 ---
 
 **Thanks for visiting! Feel free to explore my repositories, star projects you find interesting, and reach out for collaboration.** 🌟
+
