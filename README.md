@@ -1,74 +1,94 @@
-<h1 align="center">🚀 Rohit Sen</h1>
+<h1 align="center">⚡ Rohit Sen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Crypto+Airdrop+Farmer;Testnet+Explorer;Web3+Builder;Open+Source+Contributor;Always+Learning+Something+New" />
+Blockchain Developer • Web3 Builder • Testnet Explorer • Open Source Contributor
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitsenindia&label=Profile+Views&color=blue&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+on+Blockchain;Testing+New+Protocols;Exploring+Decentralized+Technology;Open+Source+Builder;Linux+Power+User" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-🔹 Crypto Airdrop Farmer
+I'm a blockchain enthusiast focused on building, testing, and exploring decentralized technologies.
 
-🔹 Testnet Explorer
+🔹 Blockchain Developer
 
-🔹 Web3 Enthusiast
+🔹 Web3 Builder
+
+🔹 Protocol Tester
 
 🔹 Linux User
 
-🔹 Open Source Supporter
+🔹 Open Source Contributor
 
-🔹 Building Useful Tools for the Community
+🔹 Smart Contract & Infrastructure Explorer
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🌐 Blockchain Infinite L3
-Python-based blockchain experimentation and development.
+Advanced blockchain experimentation and development environment.
 
-### 🤖 Block-AI
-AI-powered blockchain utility experiments.
-
-### 💻 Install Chromium VPS
-One-click Chromium installation script for VPS environments.
-
-### ⚡ One-Click Gensyn Installer
-Simple installer for running Gensyn CPU nodes.
+🔗 https://github.com/rohitsenindia/blockchain-infinite-l3
 
 ---
 
-# 🛠 Tech Stack
+### 🤖 Block-AI
+AI-powered blockchain utility project combining automation and Web3 concepts.
 
-<p align="left">
+🔗 https://github.com/rohitsenindia/Block-AI
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,linux,git,github,vscode" />
+---
+
+### 💻 Install Chromium VPS
+One-click Chromium installer for Linux VPS servers.
+
+🔗 https://github.com/rohitsenindia/install-chromium-vps
+
+---
+
+### ⚡ One-Click Gensyn Testnet CPU Node Installer
+Automated installer for deploying Gensyn CPU nodes quickly.
+
+🔗 https://github.com/rohitsenindia/One-Click-Gensyn-Testnet-CPU-Node-Installer
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,linux,git,github,vscode" />
 
 </p>
 
 ---
 
-# 🌍 Blockchain Ecosystem
+## ⛓️ Blockchain Ecosystem
 
-![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+<p align="center">
 
-![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white)
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white">
 
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+<img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white">
 
-![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
+<img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white">
 
-![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white)
+<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white">
 
-![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+<img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white">
+
+<img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black">
+
+</p>
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -80,7 +100,7 @@ Simple installer for running Gensyn CPU nodes.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -90,23 +110,14 @@ Simple installer for running Gensyn CPU nodes.
 
 ---
 
-# 🐍 Contribution Snake
+## 🌍 Connect
 
-<p align="center">
+💻 GitHub: https://github.com/rohitsenindia
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
+🌐 Website: https://pay2bee.xyz
 
 ---
 
-# 📫 Connect
+## ⚡ Mission
 
-- GitHub: https://github.com/rohitsenindia
-- Website: https://pay2bee.xyz
-
----
-
-### ⚡ Motto
-
-> Explore. Build. Learn. Repeat.
+Building, testing, and exploring the future of decentralized technology one block at a time.
