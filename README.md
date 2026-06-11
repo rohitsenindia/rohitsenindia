@@ -1,83 +1,112 @@
-# Hey there! 👋 Welcome to my GitHub
+<h1 align="center">🚀 Rohit Sen</h1>
 
-I'm a passionate developer and open-source enthusiast on a mission to build meaningful software solutions and contribute to the tech community.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Crypto+Airdrop+Farmer;Testnet+Explorer;Web3+Builder;Open+Source+Contributor;Always+Learning+Something+New" />
+</p>
 
----
-
-## 🚀 What I Do
-
-I'm deeply interested in creating innovative projects, solving complex problems, and sharing knowledge with the developer community. Whether it's building robust applications, optimizing performance, or contributing to open-source, I'm always pushing boundaries and learning something new.
-
----
-
-## 💡 Core Strengths
-
-- **Software Development** – Writing clean, maintainable, and scalable code
-- **Problem Solving** – Breaking down complex challenges into elegant solutions
-- **Collaboration** – Working effectively with teams and open-source communities
-- **Continuous Learning** – Staying updated with the latest tech trends and best practices
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitsenindia&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | JavaScript, Python, Java |
-| **Frontend** | React, HTML5, CSS3 |
-| **Backend** | Node.js, Express |
-| **Databases** | PostgreSQL, MongoDB |
-| **Tools & Platforms** | Git, GitHub, Docker |
+🔹 Crypto Airdrop Farmer
 
----
+🔹 Testnet Explorer
 
-## 📌 Featured Projects
+🔹 Web3 Enthusiast
 
-<!-- Add your standout projects here -->
+🔹 Linux User
 
-- 🔗 **[Project One](https://github.com/rohitsenindia/project-one)** – Brief description of what makes this project special
-- 🔗 **[Project Two](https://github.com/rohitsenindia/project-two)** – Key features and impact
-- 🔗 **[Project Three](https://github.com/rohitsenindia/project-three)** – Technologies and outcomes
+🔹 Open Source Supporter
+
+🔹 Building Useful Tools for the Community
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitsenindia&show_icons=true&theme=radical)
+### 🌐 Blockchain Infinite L3
+Python-based blockchain experimentation and development.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsenindia&theme=radical)
+### 🤖 Block-AI
+AI-powered blockchain utility experiments.
 
----
+### 💻 Install Chromium VPS
+One-click Chromium installation script for VPS environments.
 
-## 🤝 Let's Connect
-
-I love meeting fellow developers and discussing tech, ideas, and opportunities!
-
-- 🐦 **X (Twitter)** – [@ask_rohitsen](https://twitter.com/ask_rohitsen)
-- 💬 **Telegram** – [@rohitsen](https://t.me/rohitsen)
-- 💼 **LinkedIn** – [Rohit Sen](https://linkedin.com/in/rohitsenindia)
-- 📧 **Email** – [Contact me](mailto:rohit@example.com)
+### ⚡ One-Click Gensyn Installer
+Simple installer for running Gensyn CPU nodes.
 
 ---
 
-## 💬 Fun Facts
+# 🛠 Tech Stack
 
-- 🎯 Always looking for exciting collaborations and open-source contributions
-- 📚 Passionate about technical writing and sharing knowledge
-- 🚀 When not coding, you'll find me exploring new technologies
-- ⚡ Love connecting with developers across the globe
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=python,js,bash,linux,git,github,vscode" />
 
-## 🎓 Learning & Growth
-
-I'm constantly expanding my skill set. Currently exploring:
-- Advanced system design patterns
-- Cloud architecture and DevOps
-- Machine learning fundamentals
-- Web3 and blockchain technologies
+</p>
 
 ---
 
-**Thanks for visiting! Feel free to explore my repositories, star projects you find interesting, and reach out for collaboration.** 🌟
+# 🌍 Blockchain Ecosystem
 
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+
+![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white)
+
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+
+![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
+
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white)
+
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsenindia&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsenindia&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rohitsenindia&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/rohitsenindia
+- Website: https://pay2bee.xyz
+
+---
+
+### ⚡ Motto
+
+> Explore. Build. Learn. Repeat.
